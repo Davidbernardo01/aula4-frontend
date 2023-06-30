@@ -1,0 +1,48 @@
+#total{
+    width: 980px;
+    height: auto;
+    margin: auto; /*centraliza a divisão na página*/
+}
+#topo{
+    width: 980px;
+    height: 90px;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+}
+#banner{
+    width: 980px;
+    height: 400px;
+    background-color: rgb(225, 42, 176);
+}
+#conteudo{
+    width:705px;
+    height:390px;
+    background-color:blue;
+    float: left; 
+    margin-top: 10px;
+}
+#coluna{
+    width: 265px;
+    height: 390px;
+    background-color: brown;
+    float: right; 
+    margin-top: 10px
+}
+#coluna1{
+    width: 245px;
+    height: 175px;
+    background-color: cyan;
+    float: right;
+    margin: 10px 10px 10px 10px
+    /*as margens são no sentido do relógio: 12h, 3h, 6h, 9h*/
+}
+#coluna2{
+    width: 245px;
+    height: 175px;
+    background-color: goldenrod;
+    float: right;
+    margin: 10px 10px 10px 10px
+}
+body{
+    background-color: darkgreen;
+}
